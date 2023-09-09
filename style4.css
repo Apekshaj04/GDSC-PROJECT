@@ -1,0 +1,12 @@
+.boxes
+{
+    background-color: azure;
+margin: auto;
+width: 50%;
+font-size: 30px;
+height: 200px;
+justify-content: center;
+align-items: center;
+display: flex;
+box-shadow: 2px 2px 2px grey;
+}
